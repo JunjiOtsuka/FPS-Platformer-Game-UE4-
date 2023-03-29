@@ -22,6 +22,6 @@ https://github.com/JunjiOtsuka/FPS-Platformer-Game-UE4-/blob/master/CheckPointTr
 
 https://github.com/JunjiOtsuka/FPS-Platformer-Game-UE4-/blob/master/OverlapChecker.cpp
 
-3.When out of boundry teleport player back to the saved checkpoint:
+3.When player is out of boundry, teleport player back to the saved checkpoint:
 
 https://github.com/JunjiOtsuka/FPS-Platformer-Game-UE4-/blob/master/OverlapHandler.cpp

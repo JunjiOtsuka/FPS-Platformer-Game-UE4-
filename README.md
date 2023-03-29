@@ -1,10 +1,12 @@
 # FPS-Platformer-Game-UE4
 
 Strategy Pattern script:
+
 Lines: 195-213
 https://github.com/JunjiOtsuka/FPS-Platformer-Game-UE4-/blob/master/MovementsCharacter.cpp
 
 Gameplay Wall and Grappling Mechanics
+
 Lines: 215-273
 Same link as above.
 

@@ -8,7 +8,7 @@ Gameplay Wall and Grappling Mechanics
 Lines: 215-273
 Same link as above.
 
-Checkpoint logic: \n
+Checkpoint logic: "\n"
 Update to new checkpoint location:
 https://github.com/JunjiOtsuka/FPS-Platformer-Game-UE4-/blob/master/CheckPointTrigger.cpp
 
